@@ -1,4 +1,4 @@
-Hello World! Yes, that's my actual greeting. Welcome to my corner of the internet — don't touch anything... just kidding, fork everything. 🖥️
+## Hello World! Yes, that's my actual greeting. Welcome to my corner of the internet — don't touch anything... just kidding, fork everything. 🖥️
 # 👾 Ah, A Fellow Human. Welcome.
 Full Stack Developer who turns coffee into microservices and bugs into features. Currently at Wayfair, building systems that handle 50K+ daily transactions without breaking a sweat. ☕
 I like my APIs fast, my pipelines clean, and my deployments smooth. When I'm not pushing to prod, I'm probably building something with AI or staring at a Grafana dashboard at 2am wondering why that one service is acting up. 🐛
