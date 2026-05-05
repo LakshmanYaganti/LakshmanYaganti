@@ -1,6 +1,7 @@
 ## Hi there 👋
 # 💫 About Me:
-Software Development Engineer with 2+ years of Industry experience building production-grade backend and Full-stack applications. <br>Strong in Java, Spring Boot, microservices, clous (AWS), and DevOps, with hands-on experience taking features from design to deployment.
+Full Stack Developer with 3+ years of experience building scalable, cloud-native applications. Currently at Wayfair, where I architect microservices handling 50K+ daily transactions. I enjoy building things that actually perform under pressure — from RAG-powered AI tools to event-driven distributed systems.
+Strong with Python, Java, Spring Boot, React, and AWS. Always curious about where AI and backend engineering intersect.
 
 
 # 💻 Tech Stack:
