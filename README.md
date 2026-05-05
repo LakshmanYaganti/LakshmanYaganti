@@ -1,7 +1,18 @@
-## Hi there 👋
-# 💫 About Me:
-Full Stack Developer with 3+ years of experience building scalable, cloud-native applications. Currently at Wayfair, where I architect microservices handling 50K+ daily transactions. I enjoy building things that actually perform under pressure — from RAG-powered AI tools to event-driven distributed systems.
-Strong with Python, Java, Spring Boot, React, and AWS. Always curious about where AI and backend engineering intersect.
+Hello World! Yes, that's my actual greeting. Welcome to my corner of the internet — don't touch anything... just kidding, fork everything. 🖥️
+# 👾 Ah, A Fellow Human. Welcome.
+Full Stack Developer who turns coffee into microservices and bugs into features. Currently at Wayfair, building systems that handle 50K+ daily transactions without breaking a sweat. ☕
+I like my APIs fast, my pipelines clean, and my deployments smooth. When I'm not pushing to prod, I'm probably building something with AI or staring at a Grafana dashboard at 2am wondering why that one service is acting up. 🐛
+What I work with:
+
+🖥️ Python · Java · React · Spring Boot · FastAPI
+☁️ AWS · Docker · Kubernetes · Kafka
+🤖 RAG Pipelines · Vector Databases · AI-powered tools
+
+A few things I've built:
+
+🧠 AI Developer Assistant — RAG chatbot, 85% accuracy, 500+ concurrent users
+📊 AI Log Analyzer — processes 100K+ log entries/minute with ML anomaly detection
+💸 Expense Tracker with AI Financial Assistant
 
 
 # 💻 Tech Stack:
