@@ -1,7 +1,8 @@
 ## Yes, I still start introductions like a programmer. Welcome to my little corner of GitHub — where models are trained, pipelines occasionally break, and coffee somehow becomes machine learning. ☕
 # 👾 Ah, A Fellow Human. Welcome.
-Data Scientist who turns messy data into useful predictions and questionable business questions into SQL queries. Currently at Freddie Mac, building ML systems, GenAI applications, and data pipelines that work across 20M+ mortgage records without setting off too many alerts. 📊
-I spend most of my time teaching models to predict risk, convincing LLMs to retrieve the right documents, and automating MLOps workflows so I can spend less time fixing deployments and more time building things. When I'm not training models, I'm probably experimenting with a new AI framework, optimizing a pipeline, or staring at evaluation metrics wondering why the model was amazing yesterday and terrible today.
+I'm a Data Analyst with 3.5+ years of experience transforming complex financial data into actionable business insights. Currently at Northern Trust, I build scalable data pipelines, automate reporting processes, and develop analytics solutions that help portfolio managers, fund accountants, and business stakeholders make informed decisions.
+
+I enjoy turning messy datasets into meaningful stories, optimizing data workflows, and building dashboards that simplify complex business problems.
 
 🧠 What I work with
 
@@ -10,9 +11,22 @@ I spend most of my time teaching models to predict risk, convincing LLMs to retr
 🤖 GenAI · RAG Pipelines · Vector Databases · LLM Applications
 📊 Predictive Modeling · NLP · MLOps · Data Engineering
 
-🔭 What I'm building these days
-🏠 Advanced Credit Risk Models — helping make sense of millions of lending records
-📚 LLM-Powered Knowledge Retrieval — because nobody enjoys searching through documents manually
+What I Do
+
+📊 Design interactive dashboards using Power BI and Tableau
+🗄️ Write advanced SQL for analytics, reporting, and data validation
+🐍 Automate ETL/ELT workflows using Python, dbt, and Airflow
+☁️ Build scalable analytics solutions on Snowflake and AWS
+📉 Improve data quality through testing, validation, and governance
+💼 Analyze financial and investment data for Wealth Management and Asset Servicing
+
+
+🚀 Currently Working On
+
+🏦 Building scalable analytics solutions for institutional fund accounting
+📊 Automating reporting pipelines and dashboard development
+⚙️ Improving data quality using Great Expectations and Collibra
+📈 Developing portfolio performance and risk analytics dashboardsts manually
 ⚙️ ML Governance & Automation — making sure models behave themselves in production
 
 
