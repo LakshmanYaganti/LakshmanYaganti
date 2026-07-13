@@ -79,7 +79,6 @@ What I Do
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 # 📊 GitHub Stats:
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LakshmanYaganti&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats"/>
