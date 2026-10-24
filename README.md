@@ -1,15 +1,21 @@
-# 👾 Ah, A Fellow Human. Welcome.
+# Lakshman Sai Yaganti — Data Scientist @ Square
+
+**Data Scientist with 4+ years of experience building machine learning and statistical solutions across FinTech, payments, fraud detection, credit risk, and banking analytics.**
+
+📍 Arizona, USA · Turning complex financial data into production ML systems that detect fraud, score risk, and drive decisions.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/y-lakshman/)
+[![Email](https://img.shields.io/badge/Email-lakshmanyaganti47@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshmanyaganti47@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=globe&logoColor=white)](https://lakshmanyagantiportfolio.lovable.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-LakshmanYaganti-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LakshmanYaganti)
+
+---
+
+## 👋 About Me
 
 I'm a Data Scientist with 4+ years of experience developing machine learning and statistical solutions across FinTech, payments, fraud detection, credit risk, and banking analytics. Currently at Square, I build scalable ML pipelines, develop fraud classification models, and create credit-risk features that drive business decisions.
 
-I enjoy turning complex financial data into actionable insights, optimizing model performance through feature engineering, and building production-ready systems that detect anomalies and reduce risk.
-
-## 🧠 What I work with
-
-🐍 Python · SQL · Pandas · NumPy · PySpark · Statistical Analysis
-☁️ AWS · Snowflake · Spark · Kafka · MLflow · ETL Pipelines
-🤖 Scikit-learn · XGBoost · LightGBM · TensorFlow · Classification · Regression
-📊 Fraud Detection · Credit Risk · Anomaly Detection · Risk Scoring · A/B Testing
+I enjoy turning complex financial data into actionable insights, optimizing model performance through feature engineering, and building production-ready systems that detect anomalies and reduce risk. Yes, I'm a fellow human — I just spend most of my time teaching machines to spot the non-human patterns in payment data. 👾
 
 ## What I Do
 
@@ -20,12 +26,41 @@ I enjoy turning complex financial data into actionable insights, optimizing mode
 📈 Create dashboards tracking model performance, fraud trends, and seller segments
 💼 Analyze payment patterns and seller behavior for risk assessment
 
-## 🚀 Currently Working On
+## 💼 Experience
 
-🏦 Building fraud-classification models achieving 84% precision at Square
+| Role | Company | Period |
+|------|---------|--------|
+| Data Scientist | Square | Feb 2025 – Present |
+| Data Scientist | Mphasis, India | Jun 2020 – Jul 2023 |
+
+**Currently at Square:**
+
+🏦 Building fraud-classification models achieving 84% precision
 📊 Developing credit-risk features from seller cash flow and payment volume data
 ⚙️ Operationalizing Spark workflows for real-time fraud and risk feature generation
 📈 Creating Looker dashboards for fraud trends, model drift, and seller analytics
+
+## 🎓 Education
+
+| Degree | Institution | Period |
+|--------|-------------|--------|
+| MS, Information Technology | Arizona State University | 2023 – 2025 |
+| BTech, Computer Science | Koneru Lakshmaiah Foundation, India | 2018 – 2022 |
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Feature_Flags](https://github.com/LakshmanYaganti/Feature_Flags) | LaunchDarkly-style feature flag service with real-time dashboard updates | Spring Boot, React, Redis pub/sub, WebSocket |
+| [ai-chatbot-app](https://github.com/LakshmanYaganti/ai-chatbot-app) | RAG AI knowledge chatbot that answers questions over your own documents | FastAPI, ChromaDB, Ollama, React, OCR for scanned PDFs |
+| [dental-scan-proj](https://github.com/LakshmanYaganti/dental-scan-proj) | Dental X-ray classification for automated scan screening | TensorFlow transfer learning, FastAPI |
+| [portfolio](https://github.com/LakshmanYaganti/portfolio) | Personal portfolio website | HTML / CSS / JS |
+| [SpaceX](https://github.com/LakshmanYaganti/SpaceX) | SpaceX Launch Programs explorer with filtering by year, launch, and landing success | Angular, SpaceX API |
+
+**Selected data science work:**
+
+- **Seller Credit Risk Analytics** — Credit-risk features and scoring from seller cash-flow and payment-volume data, supporting risk assessment across seller segments.
+- **Payment Investigation NLP** — NLP-driven analysis of payment investigations to surface fraud patterns and accelerate case review.
 
 # 💻 Tech Stack:
 
@@ -44,6 +79,12 @@ I enjoy turning complex financial data into actionable insights, optimizing mode
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+**GenAI & NLP**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 **FinTech & Risk**
 
@@ -64,6 +105,7 @@ I enjoy turning complex financial data into actionable insights, optimizing mode
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **BI & Reporting**
@@ -78,3 +120,7 @@ I enjoy turning complex financial data into actionable insights, optimizing mode
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshmanYaganti&layout=compact&theme=github_dark&hide_border=true)](https://github.com/LakshmanYaganti)
 [![GitHub Streak](https://streak-stats.demolab.com?user=LakshmanYaganti&theme=github-dark&hide_border=true)](https://streak-stats.demolab.com)
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=LakshmanYaganti&theme=github-dark&hide_border=true)](https://github.com/LakshmanYaganti)
+
+---
+
+*Open to connecting on data science, ML in FinTech, and fraud/risk analytics — reach me on [LinkedIn](https://www.linkedin.com/in/y-lakshman/) or at lakshmanyaganti47@gmail.com.*
