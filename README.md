@@ -54,8 +54,6 @@ I enjoy turning complex financial data into actionable insights, optimizing mode
 | [Feature_Flags](https://github.com/LakshmanYaganti/Feature_Flags) | LaunchDarkly-style feature flag service with real-time dashboard updates | Spring Boot, React, Redis pub/sub, WebSocket |
 | [ai-chatbot-app](https://github.com/LakshmanYaganti/ai-chatbot-app) | RAG AI knowledge chatbot that answers questions over your own documents | FastAPI, ChromaDB, Ollama, React, OCR for scanned PDFs |
 | [dental-scan-proj](https://github.com/LakshmanYaganti/dental-scan-proj) | Dental X-ray classification for automated scan screening | TensorFlow transfer learning, FastAPI |
-| [portfolio](https://github.com/LakshmanYaganti/portfolio) | Personal portfolio website | HTML / CSS / JS |
-| [SpaceX](https://github.com/LakshmanYaganti/SpaceX) | SpaceX Launch Programs explorer with filtering by year, launch, and landing success | Angular, SpaceX API |
 
 **Selected data science work:**
 
