@@ -1,8 +1,8 @@
 # Lakshman Sai Yaganti — Data Scientist @ Square
 
-**Data Scientist with 4+ years of experience building machine learning and statistical solutions across FinTech, payments, fraud detection, credit risk, and banking analytics.**
+### 🔍 Catching fraud with ML by day, building AI projects by night 🤖
 
-📍 Arizona, USA · Turning complex financial data into production ML systems that detect fraud, score risk, and drive decisions.
+📍 Arizona, USA · 4+ years turning messy financial data into production ML that detects fraud, scores credit risk, and drives real decisions across FinTech, payments, and banking.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/y-lakshman/)
 [![Email](https://img.shields.io/badge/Email-lakshmanyaganti47@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshmanyaganti47@gmail.com)
@@ -13,9 +13,17 @@
 
 ## 👋 About Me
 
-I'm a Data Scientist with 4+ years of experience developing machine learning and statistical solutions across FinTech, payments, fraud detection, credit risk, and banking analytics. Currently at Square, I build scalable ML pipelines, develop fraud classification models, and create credit-risk features that drive business decisions.
+Every dataset is hiding something — a fraud pattern, a risky borrower, a signal nobody has noticed yet. My job is to find it.
 
-I enjoy turning complex financial data into actionable insights, optimizing model performance through feature engineering, and building production-ready systems that detect anomalies and reduce risk. Yes, I'm a fellow human — I just spend most of my time teaching machines to spot the non-human patterns in payment data. 👾
+I'm a Data Scientist at **Square** with 4+ years of experience across FinTech, payments, fraud detection, credit risk, and banking analytics. I build fraud-classification models, engineer credit-risk features from seller cash flow and payment volume, and operationalize ML pipelines that score transactions in real time.
+
+**A few numbers I'm proud of:**
+
+- 🎯 Fraud models trained across **700K+ banking transactions** at **85% precision**
+- 🧾 NLP that pulls structured details from unstructured financial messages at **~89% accuracy**
+- 📉 Loan-risk classifiers that cleared **30%** of an underwriting manual-review backlog
+
+Lately I've been deep into GenAI — RAG chatbots, LLM-powered tools, and whatever I can build after hours (see the projects below). Yes, I'm a fellow human — I just spend most of my time teaching machines to spot the non-human patterns in payment data. 👾
 
 ## What I Do
 
