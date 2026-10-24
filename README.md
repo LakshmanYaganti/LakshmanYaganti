@@ -59,6 +59,7 @@ Lately I've been deep into GenAI — RAG chatbots, LLM-powered tools, and whatev
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [fraud-detection-ml](https://github.com/LakshmanYaganti/fraud-detection-ml) | Credit card fraud detection on 284K transactions (0.17% fraud) — XGBoost with PR-AUC 0.84, threshold tuning & SHAP | XGBoost, Scikit-learn, SHAP, FastAPI |
 | [Feature_Flags](https://github.com/LakshmanYaganti/Feature_Flags) | LaunchDarkly-style feature flag service with real-time dashboard updates | Spring Boot, React, Redis pub/sub, WebSocket |
 | [ai-chatbot-app](https://github.com/LakshmanYaganti/ai-chatbot-app) | RAG AI knowledge chatbot that answers questions over your own documents | FastAPI, ChromaDB, Ollama, React, OCR for scanned PDFs |
 | [dental-scan-proj](https://github.com/LakshmanYaganti/dental-scan-proj) | Dental X-ray classification for automated scan screening | TensorFlow transfer learning, FastAPI |
