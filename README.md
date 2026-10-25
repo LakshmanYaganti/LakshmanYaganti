@@ -60,10 +60,14 @@ Lately I've been deep into GenAI — RAG chatbots, LLM-powered tools, and whatev
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [fraud-detection-ml](https://github.com/LakshmanYaganti/fraud-detection-ml) | Credit card fraud detection on 284K transactions (0.17% fraud) — XGBoost with PR-AUC 0.84, threshold tuning & SHAP | XGBoost, Scikit-learn, SHAP, FastAPI |
-| [Feature_Flags](https://github.com/LakshmanYaganti/Feature_Flags) | LaunchDarkly-style feature flag service with real-time dashboard updates | Spring Boot, React, Redis pub/sub, WebSocket |
+| [credit-risk-scorecard](https://github.com/LakshmanYaganti/credit-risk-scorecard) | Loan-default scorecard the way banks build it — WOE/IV points scorecard (AUC 0.80, KS 0.49) matching XGBoost, with adverse-action reason codes | Python, Scikit-learn, XGBoost, FastAPI |
+| [payment-investigation-nlp](https://github.com/LakshmanYaganti/payment-investigation-nlp) | Routes payment & banking investigation messages across 77 intents at ~93% accuracy, and extracts amounts, dates & card numbers | Sentence Transformers, NLP, FastAPI |
+| [ab-testing-experimentation](https://github.com/LakshmanYaganti/ab-testing-experimentation) | A/B testing with receipts — power analysis, SRM checks, Bayesian P(B>A), CUPED, and a Type-I simulation audit ending in a ship decision | Python, SciPy, statsmodels |
+| [customer-churn-ml](https://github.com/LakshmanYaganti/customer-churn-ml) | Churn prediction with a retention-economics layer — top risk decile captures 29% of churners; EV-optimal targeting beats blanket outreach | XGBoost, SHAP, FastAPI |
 | [ai-chatbot-app](https://github.com/LakshmanYaganti/ai-chatbot-app) | RAG AI knowledge chatbot that answers questions over your own documents | FastAPI, ChromaDB, Ollama, React, OCR for scanned PDFs |
 | [dental-scan-proj](https://github.com/LakshmanYaganti/dental-scan-proj) | Dental X-ray classification for automated scan screening | TensorFlow transfer learning, FastAPI |
-| [ai-log-analyzer](https://github.com/LakshmanYaganti/ai-log-analyzer) | Log file analyzer that surfaces top error patterns and explains them in plain English | FastAPI, Docker, rule-based AI explainer |
+
+**Also:** [Feature_Flags](https://github.com/LakshmanYaganti/Feature_Flags) — LaunchDarkly-style feature-flag service (Spring Boot, React, Redis) · [ai-log-analyzer](https://github.com/LakshmanYaganti/ai-log-analyzer) — log analysis API with plain-English error explanations
 
 **Selected data science work:**
 
