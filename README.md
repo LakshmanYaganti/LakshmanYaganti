@@ -59,6 +59,7 @@ Lately I've been deep into GenAI — RAG chatbots, LLM-powered tools, and whatev
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [scam-shield](https://github.com/LakshmanYaganti/scam-shield) 🛡️ | **Live app** ▶ [Try it](https://lakshmanyaganti.github.io/scam-shield/) — paste a suspicious text/email/link, get a plain-English scam verdict from an explainable rule engine (urgency, impersonation, payment rails, link forensics); runs 100% in-browser, nothing is stored | FastAPI, JavaScript, Docker |
 | [fraud-detection-ml](https://github.com/LakshmanYaganti/fraud-detection-ml) | Credit card fraud detection on 284K transactions (0.17% fraud) — XGBoost with PR-AUC 0.84, threshold tuning & SHAP | XGBoost, Scikit-learn, SHAP, FastAPI |
 | [realtime-transaction-risk-scoring](https://github.com/LakshmanYaganti/realtime-transaction-risk-scoring) | Real-time transaction risk scoring with Kafka — event enrichment (velocity features), XGBoost scoring, routing to investigation queues; 2.6 ms/event measured against a 5-minute SLA | Kafka, XGBoost, Python |
 | [credit-risk-scorecard](https://github.com/LakshmanYaganti/credit-risk-scorecard) | Loan-default scorecard the way banks build it — WOE/IV points scorecard (AUC 0.80, KS 0.49) matching XGBoost, with adverse-action reason codes | Python, Scikit-learn, XGBoost, FastAPI |
