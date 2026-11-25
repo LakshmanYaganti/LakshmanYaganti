@@ -1,52 +1,51 @@
-# Lakshman Sai Yaganti — Data Scientist @ Square
+# Lakshman Sai Yaganti — Data Scientist @ MetLife
 
-### 🔍 Catching fraud with ML by day, building AI projects by night 🤖
+### 🤖 Machine Learning · Predictive Analytics · Generative AI
 
-📍 Arizona, USA · 4+ years turning messy financial data into production ML that detects fraud, scores credit risk, and drives real decisions across FinTech, payments, and banking.
+📍 Arizona, USA · Data Scientist with 4 years of experience building ML, predictive analytics, and GenAI solutions across insurance and banking — from feature engineering and model development to monitoring and explainability.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/y-lakshman/)
-[![Email](https://img.shields.io/badge/Email-lakshmanyaganti47@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshmanyaganti47@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=globe&logoColor=white)](https://lakshmanyagantiportfolio.lovable.app/)
+[![Email](https://img.shields.io/badge/Email-lakshmannsy940@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshmannsy940@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=globe&logoColor=white)](https://lakshmanyaganti.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-LakshmanYaganti-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LakshmanYaganti)
 
 ---
 
 ## 👋 About Me
 
-Every dataset is hiding something — a fraud pattern, a risky borrower, a signal nobody has noticed yet. My job is to find it.
-
-I'm a Data Scientist at **Square** with 4+ years of experience across FinTech, payments, fraud detection, credit risk, and banking analytics. I build fraud-classification models, engineer credit-risk features from seller cash flow and payment volume, and operationalize ML pipelines that score transactions in real time.
+I'm a Data Scientist at **MetLife** with 4 years of experience in machine learning, predictive analytics, statistical modeling, and financial data analysis across insurance and banking. I work in Python, SQL, and PySpark — building models with Scikit-learn, XGBoost, LightGBM, and PyTorch, and I care as much about evaluation and explainability (SHAP, calibration, time-based validation) as about raw accuracy.
 
 **A few numbers I'm proud of:**
 
-- 🎯 Fraud models trained across **700K+ banking transactions** at **85% precision**
-- 🧾 NLP that pulls structured details from unstructured financial messages at **~89% accuracy**
-- 📉 Loan-risk classifiers that cleared **30%** of an underwriting manual-review backlog
+- 🏥 Claims & benefits analytics prepared across **1.2M claims and 850K member interactions** for predictive modeling at MetLife
+- 🎯 **+18%** historical claims-review precision from XGBoost/LightGBM threshold selection with MLflow + SHAP
+- 🔍 **78% fraud-detection sensitivity** on banking transactions with chronological validation and threshold tuning
+- ⚡ **55%** faster exception-reporting turnaround through automated reconciliation workflows
 
-Lately I've been deep into GenAI — RAG chatbots, LLM-powered tools, and whatever I can build after hours (see the projects below). Yes, I'm a fellow human — I just spend most of my time teaching machines to spot the non-human patterns in payment data. 👾
+Lately I've been deep into Generative AI — Azure OpenAI, RAG pipelines with LangGraph and Azure AI Search, and LLM evaluation with Ragas — including an insurance document assistant that cut analyst policy-lookup time by 32% in testing.
 
 ## What I Do
 
-📊 Develop ML models for fraud classification and credit-risk scoring using XGBoost, Scikit-learn, and TensorFlow
-🗄️ Engineer features across millions of payment records for downstream fraud-risk models
-🐍 Build Spark workflows consuming Kafka transaction events for real-time scoring
-☁️ Operationalize production ML pipelines with monitoring and drift detection
-📈 Create dashboards tracking model performance, fraud trends, and seller segments
-💼 Analyze payment patterns and seller behavior for risk assessment
+🤖 Build ML models for risk, claims, and fraud analytics using XGBoost, LightGBM, Scikit-learn, and PyTorch
+🧠 Develop GenAI & RAG applications with Azure OpenAI, LangChain, and LangGraph for document analysis
+🗄️ Engineer features at scale on Azure Databricks, Delta Lake, and PySpark
+🧪 Design A/B tests and evaluate models with PR-AUC, calibration, NDCG@K, and statistical significance
+🔎 Make models explainable and governed — SHAP, fairness and bias evaluation, human-in-the-loop review
+☁️ Monitor production models with MLflow and Evidently — drift detection, validation, retraining triggers
 
 ## 💼 Experience
 
 | Role | Company | Period |
 |------|---------|--------|
-| Data Scientist | Square | Feb 2025 – Present |
-| Data Scientist | Mphasis, India | Jun 2020 – Jul 2023 |
+| Data Scientist | MetLife | Feb 2025 – Present |
+| Data Scientist | Virtusa, India | Jun 2020 – Jul 2023 |
 
-**Currently at Square:**
+**Currently at MetLife:**
 
-🏦 Building fraud-classification models achieving 84% precision
-📊 Developing credit-risk features from seller cash flow and payment volume data
-⚙️ Operationalizing Spark workflows for real-time fraud and risk feature generation
-📈 Creating Looker dashboards for fraud trends, model drift, and seller analytics
+🏥 Own claims & benefits analytics on Databricks/Delta Lake — 1.2M claims and 850K interactions prepared for modeling
+🎯 Compare XGBoost vs LightGBM with MLflow, SHAP, and time-based validation — +18% claims-review precision
+📄 Evaluate Azure OpenAI + LangGraph RAG for insurance document assistance — 32% faster analyst policy lookup in testing
+📈 Build PyTorch recommendation models and A/B tests — +21% measured recommendation relevance vs baseline
 
 ## 🎓 Education
 
@@ -93,6 +92,7 @@ Lately I've been deep into GenAI — RAG chatbots, LLM-powered tools, and whatev
 ![LightGBM](https://img.shields.io/badge/LightGBM-2980B9?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 **GenAI & NLP**
@@ -119,6 +119,7 @@ Lately I've been deep into GenAI — RAG chatbots, LLM-powered tools, and whatev
 **Cloud & MLOps**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -138,4 +139,4 @@ Lately I've been deep into GenAI — RAG chatbots, LLM-powered tools, and whatev
 
 ---
 
-*Open to connecting on data science, ML in FinTech, and fraud/risk analytics — reach me on [LinkedIn](https://www.linkedin.com/in/y-lakshman/) or at lakshmanyaganti47@gmail.com.*
+*Open to connecting on data science, machine learning, and GenAI in insurance & banking — reach me on [LinkedIn](https://www.linkedin.com/in/y-lakshman/) or at lakshmannsy940@gmail.com.*
